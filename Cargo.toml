@@ -1,0 +1,7 @@
+[package]
+name = "rust-leetcode"
+version = "0.1.0"
+authors = ["Xiaoyi Wang <eatvlis@gmail.com>"]
+edition = "2018"
+
+[dependencies]
